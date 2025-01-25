@@ -15,10 +15,9 @@
   "overrides": {
     "react": "$react",
     "react-dom": "$react-dom",
-    "next": "$next"
+    "next": "^15.2.0-canary.20"
   },
   "dependencies": {
-    "@radix-ui/react-avatar": "^1.1.2",
     "@radix-ui/react-slot": "^1.1.1",
     "@radix-ui/react-toast": "^1.2.5",
     "@sanity/image-url": "^1.1.0",
