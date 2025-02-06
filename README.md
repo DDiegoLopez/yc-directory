@@ -1,4 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# YC_Directory
+
+YC_Directory is a modern web platform designed for startups to publish and promote their innovative projects. Built with Next.js, Tailwind CSS, NextAuth, and Sanity, this app delivers a fully responsive, sleek, and user-friendly experience.
+
+## Demo
+
+Check out the live demo: [YC_Directory Demo](https://yc-directory-delta-gules.vercel.app/)
+
+## Features
+
+- **Startup Promotion:** Easily publish and promote your startup.
+- **Responsive Design:** Optimized for all devices.
+- **Modern Authentication:** Secure login with NextAuth.
+- **Dynamic Content:** Powered by Sanity CMS.
+- **Clean UI:** Built with Next.js and styled with Tailwind CSS.
+
+## Technologies Used
+
+- **Next.js:** Server-rendered React framework.
+- **Tailwind CSS:** Utility-first CSS framework for rapid styling.
+- **NextAuth:** Authentication solution for Next.js.
+- **Sanity:** Headless CMS for managing dynamic content.
+
 
 ## Getting Started
 
@@ -34,3 +56,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Credits 
+
+Special thanks to **JS Mastery** for their outstanding tutorial, which provided the inspiration and guidance for this project.
+
+## Licence
+
+This project is licensed under the Do What You Want To Public License.
